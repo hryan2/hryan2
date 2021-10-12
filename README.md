@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ryan
+- 👀 I’m interested in artificial intelligence and data science
+- 🌱 I’m currently studying computer science
